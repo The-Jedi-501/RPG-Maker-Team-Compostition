@@ -1,5 +1,5 @@
 # RPG-Maker-Team-Compostition
-Was destiny inspired to help me better understand what i wanted to achieve view the read me or code itselft as there is alot of information in there
+Was destiny inspired to help me better understand what i wanted to achieve view the read me or code itselft as there is alot of information in there also cause at the time of making this code I a big destiny 2 fan had its final update and wanted to do something thats inspired by the game itself
 
 
 # RPG Maker — Destiny 2 Fireteam Composition Checker
